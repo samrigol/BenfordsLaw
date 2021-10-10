@@ -1,2 +1,2 @@
 # BenfordsLaw
-Lei de Benford utilizando dados contábeis de empresas brasileiras de capital aberto 
+Benford's Law using accounting data from public Brazilian companies
